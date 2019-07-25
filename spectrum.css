@@ -1,0 +1,44 @@
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  padding-bottom: 20px;
+  margin: auto;
+  padding-top: 20px;
+}
+
+table, td{
+  align-items: center;
+  border: 10px solid white;
+  margin:auto;
+  margin-top: 10px;
+}
+
+td{
+  width:160px;
+  height:300px;
+  margin: auto;
+}
+
+#first{
+  background-color: #331832;
+  margin: 20px;
+}
+
+#second{
+  background-color: #694D75;
+  margin: 20px;
+}
+#third{
+  background-color: #1B5299;
+  margin: 20px;
+}
+
+#fourth{
+  background-color: #9FC2CC;
+  margin: 20px;
+}
+
+#fifth{
+  background-color: #F1ECCE;
+  margin: 20px;
+}
